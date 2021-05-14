@@ -8,7 +8,7 @@ body{
     overflow-y: hidden;
 }
 
-.clock {
+#MyClockDisplay {
     position: absolute;
     top: 90%;
     left: 50%;
